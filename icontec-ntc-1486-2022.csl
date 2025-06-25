@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>ICONTEC NTC 1486:2022</title>
+    <id>http://www.ejemplo.com/icontec-ntc-1486-2022</id>
+    <link href="http://www.ejemplo.com/icontec-ntc-1486-2022" rel="self"/>
+    <author>Generado por ChatGPT</author>
+    <category citation-format="note"/>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+  </info>
+  <macro name="author">author</macro>
+  <macro name="title">title</macro>
+  <macro name="issued">issued</macro>
+  <citation>
+    <layout suffix="." delimiter=". ">
+      <text macro="author"/>
+      <text macro="title"/>
+      <text macro="issued"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout suffix="." delimiter=". ">
+      <text macro="author"/>
+      <text macro="title"/>
+      <text macro="issued"/>
+    </layout>
+  </bibliography>
+</style>
